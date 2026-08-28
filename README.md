@@ -119,7 +119,7 @@ I'm **Smit Pathak** — an **Artificial Intelligence** undergrad at **NIT Rourke
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/smit-pathak" target="_blank">
+  <a href="https://www.linkedin.com/in/smit-pathak-78388b263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pathaksmit23@gmail.com">
