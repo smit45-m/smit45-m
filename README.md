@@ -3,12 +3,18 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00C9FF,35:92FE9D,70:7928CA,100:FF0080&height=220&section=header&text=Smit%20Pathak&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%26%20Multi-Agent%20Architect%20%E2%80%A2%20AWS%20Cloud%20MLOps&descAlignY=62&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00C9FF,35:92FE9D,70:7928CA,100:FF0080&height=220&section=header&text=Smit%20Pathak&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%203D%20Procedural%20Artist%20%E2%80%A2%20AWS%20Cloud%20MLOps&descAlignY=62&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
+  <img src="assets/cyber_3d_core.jpg" width="100%" alt="3D Cyberpunk Neural Core & Spatial Workstation" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=55&lines=🤖+Autonomous+Multi-Agent+Workflows+(CrewAI+%26+LangGraph);☁️+Scalable+Cloud+MLOps+Architectures+(AWS+%2B+Kubernetes);🔬+Deep+Learning+%26+Clinical+Diagnostics+(DenseNet+%2B+GradCAM);⚡+High-Throughput+Microservices+(FastAPI+%2B+Docker);🎓+B.Tech+in+Artificial+Intelligence+@+NIT+Rourkela" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=820&height=55&lines=🧊+3D+Procedural+Architectures+with+Blender+(bpy);🌐+Real-Time+Interactive+Three.js+%26+WebGL+Engines;☁️+Cloud+MLOps+%26+Distributed+Compute+on+AWS;🤖+Autonomous+Multi-Agent+Swarm+Intelligence;🎓+Artificial+Intelligence+Scholar+@+NIT+Rourkela" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,29 +37,29 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:B565F3&height=3" width="100%" />
 
 <!-- ================================================================= -->
-<!--                INTERACTIVE CLI / DEVELOPER TELEMETRY              -->
+<!--               3D HOLO-CONSOLE & SYSTEM TELEMETRY                  -->
 <!-- ================================================================= -->
 
 <details open>
-<summary><b>⚡ <code>system_telemetry.sh</code> — Quick Developer Spec & Status</b> <i>(Click to toggle)</i></summary>
+<summary><b>🧊 <code>spatial_telemetry.sh</code> — 3D Core & System Telemetry</b> <i>(Click to toggle)</i></summary>
 
 ```jsonc
 {
-  "developer": "Smit Pathak",
+  "system": "Smit-Neural-3D-Kernel",
+  "architect": "Smit Pathak",
   "institution": "National Institute of Technology, Rourkela",
   "degree": "B.Tech in Artificial Intelligence (2024 - 2028)",
-  "core_competencies": [
-    "Autonomous Multi-Agent Swarms & Task Decomposition",
-    "Deep NLP & Transfer Learning Architectures",
-    "Cloud Native MLOps & Production Deployments on AWS"
-  ],
-  "cloud_arsenal": {
-    "provider": "Amazon Web Services (AWS)",
-    "services": ["EC2", "S3", "Lambda", "SageMaker", "ECS", "CloudWatch"],
-    "orchestration": ["Kubernetes", "Docker", "GitHub Actions CI/CD"]
+  "specializations": {
+    "3d_spatial_computing": ["Blender Procedural (bpy)", "Three.js", "WebGL", "Cycles/EEVEE PBR", "Kinematic Assemblies"],
+    "cloud_infrastructure": ["Amazon Web Services (AWS)", "AWS EC2", "AWS S3", "AWS Lambda", "AWS SageMaker", "ECS/EKS"],
+    "intelligent_systems": ["Autonomous Multi-Agent Swarms", "LangGraph", "Deep NLP", "PyTorch Neural Inference"]
   },
-  "current_mission": "Building fault-tolerant, multi-agent RAG architectures with AWS serverless backends",
-  "status": "🚀 Open to high-impact AI/ML & Cloud MLOps engineering opportunities"
+  "render_pipeline": {
+    "viewport": "Cycles OptiX Raytracing & Real-time WebGL Shaders",
+    "deployment": "Containerized Microservices on Kubernetes & AWS Cloud"
+  },
+  "current_focus": "Merging generative multi-agent systems with real-time procedural 3D graphics & cloud-scale MLOps",
+  "telemetry_status": "🟢 ONLINE | Accepting high-impact AI/ML, 3D & Cloud engineering collaborations"
 }
 ```
 
@@ -62,17 +68,17 @@
 <br/>
 
 <!-- ================================================================= -->
-<!--                         ABOUT ME                                  -->
+<!--                    ARCHITECTURAL CAPABILITIES                     -->
 <!-- ================================================================= -->
 
-## 💫 Core Architecture & Focus
+## ⬢ Engineering Capabilities & Focus
 
-I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, obsessed with engineering autonomous multi-agent intelligence, optimizing deep neural architectures, and deploying enterprise-grade, auto-scaling machine learning systems to the cloud.
+I engineer at the intersection of **3D Spatial Computing & Computer Graphics**, **Scalable Cloud MLOps on AWS**, and **Autonomous Multi-Agent Artificial Intelligence**.
 
-* 🤖 **Autonomous Multi-Agent Ecosystems:** Architecting multi-agent collaborative workflows using **LangGraph**, **CrewAI**, and **LangChain**. Specializing in adaptive task decomposition, dynamic prompt optimization, and low-latency **RAG** pipelines across multi-modal knowledge bases.
-* ☁️ **Cloud Infrastructure & AWS MLOps:** Designing and deploying resilient, scalable ML systems on **Amazon Web Services (AWS)**. Leveraging **AWS SageMaker** for scalable model training and hosting, **AWS Lambda** for event-driven serverless inferences, **Amazon EC2 & S3** for distributed compute and object storage, containerized with **Docker** and orchestrated on **Kubernetes** clusters with automated **CI/CD** pipelines.
-* 🔬 **Deep Learning, NLP & Computer Vision:** Engineering sequence models (**BiLSTM**) for sentiment mining and fine-tuning Hugging Face Transformers with **PEFT / LoRA**. Designing deep computer vision diagnostics (**DenseNet-121**) with **Grad-CAM** interpretability for automated clinical report synthesis.
-* ⚡ **High-Throughput Microservices:** Developing sub-100ms asynchronous APIs using **FastAPI** and **Pydantic** for strict validation, backed by distributed vector stores (**Pinecone**, **ChromaDB**, **FAISS**) and relational engines (**MySQL**).
+* 🧊 **Procedural 3D Graphics & Spatial Computing:** Developing programmatic 3D generative pipelines in **Blender** using the Python **`bpy`** API. Engineering intricate parametric assemblies (such as Formula 1 internal kinetic powertrains), architectural spatial models (NIT Rourkela 3D digital twins), photorealistic Cycles lighting setups, and real-time interactive **Three.js / WebGL** viewports with custom shader materials.
+* ☁️ **Cloud Infrastructure & AWS MLOps:** Architecting resilient, high-throughput cloud environments on **Amazon Web Services (AWS)**. Leveraging **AWS SageMaker** for scalable model training and distributed endpoints, **AWS Lambda** for event-driven serverless compute, **Amazon EC2 & S3** for heavy neural workloads and asset pipelines, containerized with **Docker** and orchestrated over **Kubernetes** clusters with automated **CI/CD**.
+* 🤖 **Autonomous Multi-Agent AI & Neural Systems:** Designing resilient agentic graphs using **LangGraph**, **CrewAI**, and **LangChain**. Formulating multi-agent state machines with memory persistence, self-correcting evaluation loops, and low-latency vector embeddings across **Pinecone** and **ChromaDB**.
+* ⚡ **High-Throughput Microservice Backends:** Constructing asynchronous **FastAPI** architectures with rigorous **Pydantic** schema validation, low-latency relational engines (**MySQL**), and high-performance algorithms in **Python** and **C++**.
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:B565F3&height=3" width="100%" />
@@ -81,7 +87,7 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
 <!--                    INTERACTIVE TECH ARSENAL                       -->
 <!-- ================================================================= -->
 
-## 🛠️ Technical Arsenal & Ecosystem
+## 🛠️ Interactive Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,py,cpp,pytorch,fastapi,mysql,git,linux,postman&theme=dark" alt="Tech Stack Icons" />
@@ -90,7 +96,25 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
 <br/>
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & MLOps (AWS Centric)</b></summary>
+<summary><b>🧊 3D Modeling, Procedural Engineering & Spatial Graphics</b></summary>
+<br/>
+
+<p align="left">
+  <img height="34" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
+  <img height="34" src="https://img.shields.io/badge/Python_bpy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python bpy" />
+  <img height="34" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img height="34" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img height="34" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+</p>
+
+* **Procedural CAD & Animation:** Programmatic mesh generation via **Blender `bpy`**, complex hierarchical assemblies, keyframe interpolation, geometry nodes, and procedural texture baking.
+* **Real-Time 3D WebGL:** Interactive in-browser 3D viewports powered by **Three.js**, PBR material shading, dynamic lighting, OrbitControls, and exploded component disassembly.
+* **Rendering Engines:** High-fidelity raytraced rendering using **Cycles (OptiX / CUDA)** and real-time rasterization with **EEVEE Next**.
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud Infrastructure, MLOps & Containerization (AWS Powered)</b></summary>
 <br/>
 
 <p align="left">
@@ -106,8 +130,8 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
   <img height="34" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-* **Cloud Architecture:** Scalable inference deployments with **AWS EC2**, distributed asset and model storage via **Amazon S3**, serverless triggers with **AWS Lambda**, and managed ML lifecycle via **AWS SageMaker**.
-* **Containerization & CI/CD:** Production multi-replica pod orchestration on **Kubernetes**, reproducible multi-stage builds on **Docker**, automated unit testing & deployment pipelines using **GitHub Actions**.
+* **Cloud Architecture:** Elastic compute instances with **AWS EC2**, scalable object and model weight repositories with **Amazon S3**, serverless event-driven processing via **AWS Lambda**, and end-to-end MLOps management via **AWS SageMaker**.
+* **Orchestration:** Multi-stage production builds with **Docker**, resilient multi-replica auto-scaling on **Kubernetes**, automated testing and continuous integration via **GitHub Actions**.
 
 </details>
 
@@ -124,7 +148,7 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
   <img height="34" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-* **Agentic Frameworks:** State graph coordination with **LangGraph**, role-based autonomous delegation with **CrewAI**, memory persistence, self-reflection loops, and multi-document RAG indexing with **LlamaIndex**.
+* **Agentic Frameworks:** Cyclic state machine coordination with **LangGraph**, role-specialized swarms using **CrewAI**, persistent memory architectures, and semantic retrieval indexing with **LlamaIndex**.
 
 </details>
 
@@ -142,12 +166,10 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
   <img height="34" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-* **Model Architectures:** BiLSTM sequence networks, DenseNet-121 transfer learning, Grad-CAM visual heatmaps, Attention Mechanisms, LoRA/PEFT parameter-efficient fine-tuning.
-
 </details>
 
 <details open>
-<summary><b>⚡ Backend, High-Performance APIs & Vector Databases</b></summary>
+<summary><b>⚡ Backend, High-Performance APIs & Vector Engines</b></summary>
 <br/>
 
 <p align="left">
@@ -168,80 +190,25 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:B565F3&height=3" width="100%" />
 
 <!-- ================================================================= -->
-<!--                  INTERACTIVE FEATURED PROJECTS                    -->
-<!-- ================================================================= -->
-
-## 🚀 Featured Systems & Architectures
-
-<details open>
-<summary><b>🤖 Multi-Agent AI Research Assistant</b> — <i>Collaborative Autonomous RAG Engine</i></summary>
-<br/>
-
-> **Tech Stack:** `Python` • `LangGraph` • `CrewAI` • `LangChain` • `FastAPI` • `Docker` • `Kubernetes` • `AWS S3` • `CI/CD`  
-> **Repository:** [View on GitHub](https://github.com/smit45-m)
-
-* **Architecture:** Orchestrates 4 specialized autonomous agents (Planner, Deep Researcher, Synthesizer, Evaluator) in a cyclic state graph to execute complex, multi-hop document analysis.
-* **Key Achievements:**
-  * Reduced end-to-end research turnaround time by **60%** compared to standard single-turn LLM pipelines.
-  * Achieved **85% response accuracy** across 200+ rigorous benchmarks spanning 15+ heterogeneous formats (PDF, Markdown, HTML, API data).
-  * Packaged into an asynchronous **FastAPI** service deployed on a multi-replica **Kubernetes** cluster with auto-scaling, supporting 50+ concurrent users with zero downtime.
-  * Fully automated build and deployment with **GitHub Actions** pipelines.
-
-</details>
-
-<details open>
-<summary><b>📊 Deep NLP Sentiment Analysis & Opinion Mining Pipeline</b> — <i>High-Throughput Microservice</i></summary>
-<br/>
-
-> **Tech Stack:** `Python` • `PyTorch` • `BiLSTM` • `FastAPI` • `Docker` • `Kubernetes` • `AWS EC2` • `NumPy` • `Pandas`  
-> **Repository:** [View on GitHub](https://github.com/smit45-m)
-
-* **Architecture:** Bidirectional Long Short-Term Memory (BiLSTM) network with custom word embeddings and attention mechanisms to capture contextual sentiment polarity.
-* **Key Achievements:**
-  * Trained and hyperparameter-tuned across **50,000+** real customer reviews, attaining **93% classification accuracy** (+5% over baseline).
-  * High-throughput data preprocessing engine capable of streaming and cleaning **5,000+ reviews/minute**.
-  * Deployed as a resilient 3-replica containerized service with sub-**100ms API inference latency**.
-
-</details>
-
-<details open>
-<summary><b>🩻 Chest Radiograph Multi-Pathology Diagnostic & Report Synthesizer</b> — <i>Clinical AI</i></summary>
-<br/>
-
-> **Tech Stack:** `PyTorch` • `DenseNet-121` • `Hugging Face Transformers` • `Grad-CAM` • `FastAPI` • `AWS S3`  
-> **Repository:** [View on GitHub](https://github.com/smit45-m)
-
-* **Architecture:** Multi-label transfer learning vision network backed by DenseNet-121 feature extractors, coupled with Grad-CAM visual heatmaps and transformer-based medical draft synthesis.
-* **Key Achievements:**
-  * Evaluated across **100,000+** clinical radiology images to detect 14 distinct thoracic pathologies, achieving a state-of-the-art **0.94 ROC-AUC**.
-  * Integrated **Grad-CAM** attention visualization to pinpoint pathological regions, boosting diagnostic explainability and trust by **35%**.
-  * Decreased manual radiologist preliminary drafting time by **40%** through automated LLM clinical summaries.
-
-</details>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:B565F3&height=3" width="100%" />
-
-<!-- ================================================================= -->
 <!--                  CERTIFICATIONS & EDUCATION                       -->
 <!-- ================================================================= -->
 
-## 📜 Certifications & Academic Credentials
+## 📜 Academic Matrix & Certifications
 
 <details>
-<summary><b>🎓 Academic Background & Verified Certifications (Click to expand)</b></summary>
+<summary><b>🎓 Academic Credentials & Specializations (Click to expand)</b></summary>
 <br/>
 
 * **National Institute of Technology, Rourkela**
   * *B.Tech in Artificial Intelligence* (2024 – 2028)
-  * *Coursework:* Data Structures & Algorithms, OOP in C++, Artificial Intelligence & ML, Database Management Systems (SQL), Linear Algebra.
+  * *Core Disciplines:* Data Structures & Algorithms, OOP in C++, Artificial Intelligence & ML, Database Management Systems (SQL), Linear Algebra.
 * **Deep Learning Specialization** — *DeepLearning.AI & Coursera (2025)*
-  * Neural Networks, Hyperparameter Tuning, Structuring ML Projects, CNNs, Sequence Models & Attention Mechanisms.
+  * Neural Networks, Hyperparameter Optimization, Structuring ML Projects, CNNs, Sequence Models & Attention Mechanisms.
 * **Machine Learning Specialization** — *Stanford University & DeepLearning.AI (2025)*
-  * Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning & Recommenders.
-* **Leadership & Community:**
-  * *Technical Member, OpenCode Club (NIT Rourkela):* Organized campus hackathons for 300+ developers, conducted sessions on Git/GitHub and foundational ML.
-  * *Sponsorship Committee, NITRUTSAV 2026:* Negotiated corporate sponsorships with leading consumer brands.
+  * Supervised Learning, Advanced Learning Algorithms, Unsupervised Learning & Recommender Systems.
+* **Leadership & Open Source:**
+  * *Technical Member, OpenCode Club (NIT Rourkela):* Coordinated campus technical hackathons, conducted workshops on Git/GitHub workflows, procedural design, and deep learning.
+  * *Sponsorship Committee, NITRUTSAV 2026:* Led outreach and corporate sponsorship acquisition.
 
 </details>
 
@@ -292,7 +259,7 @@ I'm an **Artificial Intelligence** researcher and builder at **NIT Rourkela**, o
 
   <br/><br/>
   
-  <i>⚡ "Autonomous intelligence is not just about prediction; it's about decision, adaptation, and execution."</i>
+  <i>⚡ "Rendering reality through procedural dimensions, autonomous intelligence, and cloud-scale architectures."</i>
 
 </div>
 
